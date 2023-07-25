@@ -1,6 +1,6 @@
 {
   "name": "jsdom",
-  "version": "22.1.0",
+  "version": "22.1.1",
   "description": "A JavaScript implementation of many web standards",
   "keywords": [
     "dom",
@@ -18,7 +18,7 @@
     "Pierre-Marie Dartus <dartus.pierremarie@gmail.com>"
   ],
   "license": "MIT",
-  "repository": "jsdom/jsdom",
+  "repository": "https://github.com/amonnphillip/jsdom",
   "dependencies": {
     "abab": "^2.0.6",
     "cssstyle": "^3.0.0",
@@ -88,5 +88,8 @@
   "main": "./lib/api.js",
   "engines": {
     "node": ">=16"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
   }
 }
