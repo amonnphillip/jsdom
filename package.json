@@ -18,7 +18,7 @@
     "Pierre-Marie Dartus <dartus.pierremarie@gmail.com>"
   ],
   "license": "MIT",
-  "repository": "https://github.com/amonnphillip/jsdom",
+  "repository": "https://github.com/amonnphillip/jsdom.git",
   "dependencies": {
     "abab": "^2.0.6",
     "cssstyle": "^3.0.0",
